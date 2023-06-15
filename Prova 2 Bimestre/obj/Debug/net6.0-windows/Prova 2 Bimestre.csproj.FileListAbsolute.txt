@@ -1,0 +1,17 @@
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.csproj.AssemblyReference.cache
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova_2_Bimestre.Form1.resources
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.csproj.GenerateResource.cache
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.AssemblyInfoInputs.cache
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.AssemblyInfo.cs
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\bin\Debug\net6.0-windows\Prova 2 Bimestre.exe
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\bin\Debug\net6.0-windows\Prova 2 Bimestre.deps.json
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\bin\Debug\net6.0-windows\Prova 2 Bimestre.runtimeconfig.json
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\bin\Debug\net6.0-windows\Prova 2 Bimestre.dll
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\bin\Debug\net6.0-windows\Prova 2 Bimestre.pdb
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.dll
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\refint\Prova 2 Bimestre.dll
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.pdb
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\Prova 2 Bimestre.genruntimeconfig.cache
+C:\Users\2022102020010\Documents\Visual Studio 2022\poo\Prova 2 Bimestre\Prova 2 Bimestre\obj\Debug\net6.0-windows\ref\Prova 2 Bimestre.dll
